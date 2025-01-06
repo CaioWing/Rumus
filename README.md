@@ -1,4 +1,4 @@
-# RuMust - A Project Planning
+# Rumus - A Project Planning
 
 ## About
 This project is a simple deep learning framework created as a learning experience to understand the inner works of Pytorch and other like frameworks.
